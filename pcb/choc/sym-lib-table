@@ -1,0 +1,6 @@
+(sym_lib_table
+  (lib (name "mcu")(type "KiCad")(uri "/home/matthias/Data/proj/SPC_EVDR/submodules/kleeb/mcu.kicad_sym")(options "")(descr ""))
+  (lib (name "kbd")(type "Legacy")(uri "/home/matthias/Data/proj/SPC_EVDR/submodules/kbd/kicad-symbols/kbd.lib")(options "")(descr ""))
+  (lib (name "MCU_RaspberryPi_RP2040")(type "Legacy")(uri "${KIPRJMOD}/MCU_RaspberryPi_RP2040.lib")(options "")(descr ""))
+  (lib (name "weteor")(type "KiCad")(uri "/home/matthias/Data/proj/Klacker_BS/pcb/part_library/weteor.kicad_sym")(options "")(descr ""))
+)
