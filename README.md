@@ -1,6 +1,6 @@
 ### Kong
 
-38 key orthogonal keyboard with offset bottom row
+48 key orthogonal keyboard with offset bottom row
 
 ![top](img/choc_top.png)
 
