@@ -1,6 +1,6 @@
 ### Kong
 
-38 key orthogonal keyboard with offset bottom row
+48 key orthogonal keyboard with offset bottom row
 
 ![top](img/choc_top.png)
 
@@ -12,7 +12,7 @@
 - production files for pcba
 - case files are supplied (stl, dxf, as well as the freecad files)
 - QMK with vial support
-- completely open source, permissive license ([CERN-OHL-P]([Home | CERN Open Hardware Licence](https://cern-ohl.web.cern.ch/home)))
+- completely open source, permissive license ([CERN-OHL-P](https://cern-ohl.web.cern.ch/home))
 - bottom rows supported: 
   - 6x1u (MX)
   - 3x1u - 2u (MX and Choc)
@@ -33,6 +33,12 @@ Parts needed beside the assembled pcbs:
 - 38 of your favourite switches (mx or choc)
 
 - 1x 1.6mm mid-mount 16-pin USB-C connector for the choc board. I've omitted this from assembly to avoid needing the higher tier assembly. Those connectors can easily be found on Aliexpress, Mouse, Digikey etc. and are quite easy to handsolder
+
+### firmware
+firmware configs for qmk and vial can be found in the respective firmware folders: [choc](./firmware/kong) / [mx](./firmware/kongmx).
+
+The first time the pcb is plugged in, the bootloader will provide a drive to upload the firmware file. 
+You may either build the firmware yourself or use the provided vial firmware files [here](./firmware/uf2). You can use VIAL ([download](https://get.vial.today/) to program your board after that, without need to build a new firmware.
 
 ### the rest
 
