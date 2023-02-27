@@ -24,7 +24,9 @@ All production files you need to build your own board can be found here: [choc](
 
 There are also production files with both pcbs combined to save on the assembly costs: [combined](./prod/combined)
 
-The case is split in two parts connected by cylindrical 3x1.7mm magnets. The bottom case is open by design and ends at a bit under the hotswap sockets. It's meant to be used with self adhesive neopren sheets (2-3mm thick), which are cut to be the same size as the pcb and then glued on top of the underside of the pcb.
+The case is split in two parts connected by cylindrical 3mm diameter magnets. Two length are needed, 1.7mm and 3mm. The 3x3mm Magnets go into the shallow holes, so they poke out of the case. The 3x1.7mm magnets are pressed into the deeper holes. The longer magnet acting as a pin increasing stability and keeping the top part in place. 
+
+The bottom case is open by design and ends at a bit under the hotswap sockets. It's meant to be used with self adhesive neopren sheets (2-3mm thick), which are cut to be the same size as the pcb and then glued on top of the underside of the pcb.
 
 Parts needed beside the assembled pcbs:
 
