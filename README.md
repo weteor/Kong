@@ -2,7 +2,7 @@
 
 48 key orthogonal keyboard with offset bottom row
 
-![top](img/choc_top.png)
+![top](img/kongMx_top.jpg)
 
 ## Features
 
@@ -47,3 +47,7 @@ You may either build the firmware yourself or use the provided vial firmware fil
 Everything in this repository is free to use however you might see fit. If you want to support me and my projects, please consider linking back to this repository if you build/change/use anything.
 
 If you would like to send me a tip, you could do it [here](https://ko-fi.com/weteor) (Please don't feel like you have to).
+
+### more pictures
+
+![top](img/choc_top.png)
